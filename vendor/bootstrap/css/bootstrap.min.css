@@ -28,7 +28,7 @@
     --light: #f8f9fa;
     --dark: #343a40;
     --breakpoint-xs: 0;
-    --breakpoint-sm: 576px;>
+    --breakpoint-sm: 576px;
     --breakpoint-md: 768px;
     --breakpoint-lg: 992px;
     --breakpoint-xl: 1200px;
@@ -5642,7 +5642,7 @@ a.badge-dark:hover {
 
 .alert-warning {
     color: #856404;
-    background-color: #F3F5E13cd;
+    background-color: #F3F5E1;
     border-color: #ffeeba
 }
 

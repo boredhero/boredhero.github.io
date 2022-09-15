@@ -50,6 +50,7 @@
 .flexslider .slides > li {
   display: none;
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 .flexslider .slides img {
   width: 100%;
@@ -95,6 +96,7 @@ html[xmlns] .flexslider .slides {
 .flexslider .slides img {
   height: auto;
   -moz-user-select: none;
+  user-select: none;
 }
 .flex-viewport {
   max-height: 2000px;
@@ -261,6 +263,7 @@ html[xmlns] .flexslider .slides {
   -ms-transition: all 1s ease;
   -o-transition: all 1s ease;
   transition: all 1s ease;
+  user-select: none;
 }
 .flex-control-thumbs img:hover {
   opacity: 1;

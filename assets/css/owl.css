@@ -20,6 +20,7 @@
   touch-action: manipulation;
   -moz-backface-visibility: hidden;
   /* fix firefox animation glitch */
+  backface-visibility: hidden;
 }
 .owl-carousel .owl-stage:after {
   content: ".";
@@ -34,6 +35,7 @@
   overflow: hidden;
   /* fix for flashing background */
   -webkit-transform: translate3d(0px, 0px, 0px);
+  transform: translate3d(0px, 0px, 0px);
 }
 .owl-carousel .owl-wrapper,
 .owl-carousel .owl-item {
@@ -43,6 +45,8 @@
   -webkit-transform: translate3d(0, 0, 0);
   -moz-transform: translate3d(0, 0, 0);
   -ms-transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  transform: translate3d(0, 0, 0);
 }
 .owl-carousel .owl-item {
   position: relative;
@@ -51,6 +55,7 @@
   -webkit-backface-visibility: hidden;
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
+  backface-visibility: hidden;
 }
 .owl-carousel .owl-item img {
   display: block;
@@ -195,6 +200,7 @@
   z-index: 1;
   -webkit-backface-visibility: hidden;
   transition: transform 100ms ease;
+  backface-visibility: hidden;
 }
 
 .owl-carousel .owl-video-play-icon:hover {

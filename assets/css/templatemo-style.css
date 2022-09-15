@@ -13,7 +13,8 @@ body {
 }
 
 #page-wraper {
-  background: url(../images/page-bg.png) no-repeat center center fixed;
+  background: url(../images/page-bg.png) repeat center center fixed;
+  background-color: #6A4D5D;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -25,6 +26,7 @@ body {
 
 body {
   overflow-x: hidden;
+  overflow-y: auto
 }
 
 input,
@@ -291,7 +293,7 @@ html {
 /* Section */
 
 .section {
-  color: #f3f5e1;
+  color: #6A4D5D;
   width: 55%;
   right: 10%;
   left: 35%;
@@ -417,7 +419,7 @@ button:hover {
 }
 
 .service-item:hover {
-  background-color: #f3f5e1;
+  background-color: #F3F5E1;
 }
 
 .service-item:hover h4 {

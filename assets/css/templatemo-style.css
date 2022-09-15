@@ -42,13 +42,13 @@ a:hover {
 p {
     font-size: 16px;
     line-height: 24px;
-    color: #fff;
+    color: #F3F5E1;
 }
 
 h4 {
     font-size: 26px;
     font-weight: 700;
-    color: #fff;
+    color: #F3F5E1;
     letter-spacing: 0.25px;
 }
 
@@ -104,7 +104,7 @@ html {
 }
 
 .main-nav li:last-child a {
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid #F3F5E1;
 }
 
 .main-nav li {
@@ -117,15 +117,15 @@ html {
     display: inline-block;
     font-size: 16px;
     font-weight: 700;
-    color: #fff;
+    color: #F3F5E1;
     width: 100%;
     transition: all 0.5s;
-    border-top: 2px solid #fff;
+    border-top: 2px solid #F3F5E1;
 }
 
 .main-nav li:hover a,
 .main-nav li.active a {
-    background: #fff;
+    background: #F3F5E1;
     color: #51344D;
 }
 
@@ -153,7 +153,7 @@ html {
 .menu .author-content span {
     font-size: 13px;
     font-style: italic;
-    color: #fff;
+    color: #F3F5E1;
 }
 
 .menu .social-network {
@@ -171,13 +171,13 @@ html {
     text-align: center;
     line-height: 40px;
     background-color: rgba(0, 0, 0, 0.2);
-    color: #fff;
+    color: #F3F5E1;
     font-size: 14px;
     transition: all 0.5s;
 }
 
 .menu .social-network ul li a:hover {
-    background-color: #fff;
+    background-color: #F3F5E1;
     color: #51344D;
 }
 
@@ -250,7 +250,7 @@ html {
 }
 
 .menu-toggle {
-  color: #fff;
+  color: #F3F5E1;
   cursor: pointer;
   font-size: 25px;
   position: fixed;
@@ -265,7 +265,7 @@ html {
     top: 0;
     left: 0;
     color: #a43f49;
-    background-color: #fff;
+    background-color: #F3F5E1;
     width: 60px;
     height: 60px;
     text-align: center;
@@ -281,7 +281,7 @@ html {
     cursor: pointer;
     text-align: right;
     color: #51344D;
-    background-color: #fff;
+    background-color: #F3F5E1;
     width: 100%;
     height: 60px;
     text-align: center;
@@ -293,7 +293,7 @@ html {
 /* Section */
 
 .section {
-    color: #fff;
+    color: #F3F5E1;
     width: 55%;
     right: 10%;
     left: 35%;
@@ -311,7 +311,7 @@ html {
 .section-heading h2 {
     font-size: 32px;
     font-weight: 700;
-    color: #fff;
+    color: #F3F5E1;
 }
 
 .section-heading .line-dec {
@@ -324,7 +324,7 @@ html {
 .section-heading span {
     margin-top: 5px;
     font-size: 16px;
-    color: #fff;
+    color: #F3F5E1;
     letter-spacing: 0.5px;
 }
 
@@ -334,7 +334,7 @@ html {
 .white-button a {
     display: inline-block;
     padding: 12px 20px;
-    background-color: #fff;
+    background-color: #F3F5E1;
     color: #51344D;
     font-size: 13px;
     font-weight: 800;
@@ -345,13 +345,13 @@ html {
 
 .white-button a:hover {
     background-color: #51344D;
-    color: #fff;
+    color: #F3F5E1;
 }
 
 button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #fff;
+    background-color: #F3F5E1;
     color: #51344D;
     font-size: 12px;
     font-weight: 800;
@@ -366,7 +366,7 @@ button {
 button:hover {
     outline: none;
     background-color: #51344D;
-    color: #fff;
+    color: #F3F5E1;
 }
 
 
@@ -521,12 +521,12 @@ section.my-work .section-heading {
 }
 
 .isotope-toolbar p {
-    border-top: 1px solid #fff;
+    border-top: 1px solid #F3F5E1;
     padding-top: 15px;
 }
 
 .isotope-toolbar a {
-    color: #fff;
+    color: #F3F5E1;
 }
 
 .isotope-item {
@@ -596,10 +596,10 @@ figure.snip1321 i {
   text-align: center;
   line-height: 40px;
   border-radius: 5px;
-  color: #fff;
+  color: #F3F5E1;
 }
 figure.snip1321:after {
-  background-color: #ffffff;
+  background-color: #F3F5E1fff;
   position: absolute;
   content: "";
   display: block;
@@ -650,7 +650,7 @@ section.contact-me {
     border: 1px solid rgba(250,250,250,1);
     border-radius: 0px;
     margin-bottom: 30px;
-    color: #fff;
+    color: #F3F5E1;
     font-size: 14px;
     height: 40px;
     line-height: 40px;
@@ -668,7 +668,7 @@ section.contact-me {
     border: 1px solid rgba(250,250,250,1);
     border-radius: 0px;
     margin-bottom: 30px;
-    color: #fff;
+    color: #F3F5E1;
     font-size: 14px;
     height: 180px;
     max-height: 220px;
@@ -692,7 +692,7 @@ section.contact-me {
     }
 
     .section {
-        color: #fff;
+        color: #F3F5E1;
         width: 65%;
         right: 5%;
         left: 30%;

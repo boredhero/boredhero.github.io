@@ -13,8 +13,7 @@ body {
 }
 
 #page-wraper {
-  background: url(../images/page-bg.png) repeat center center fixed;
-  background-color: #6A4D5D;
+  background: #6A4D5D url(../images/page-bg.png) repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -26,7 +25,7 @@ body {
 
 body {
   overflow-x: hidden;
-  overflow-y: auto
+  background: #6A4D5D
 }
 
 input,

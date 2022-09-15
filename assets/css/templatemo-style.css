@@ -422,11 +422,15 @@ button:hover {
 }
 
 .service-item:hover h4 {
-  color: #1e1e1e;
+  color: #4B3047;
 }
 
 .service-item:hover p {
-  color: #4a4a4a;
+  color: #64405E;
+}
+
+.service-item:hover body {
+  color: #64405E
 }
 
 .service-item .service-icon {

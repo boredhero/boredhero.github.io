@@ -464,7 +464,9 @@ mark,
 .mark {
   padding: 0.2em;
   background-color: #f3f5e1;
+  color: #4B3047;
 }
+
 
 .list-unstyled {
   padding-left: 0;

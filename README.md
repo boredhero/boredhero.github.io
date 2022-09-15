@@ -10,5 +10,4 @@ My modifications to this template are available for free under the [GNU GPLv3](h
 
 ## Copyright notice
 
-Copyright Noah Martino © 2022. 
-
+Copyright Noah Martino © 2022.

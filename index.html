@@ -117,9 +117,10 @@
           <p class="project-number">Project 01</p>
           <h3>The grow lights broke the camera, so I taught FFmpeg a trick.</h3>
           <p>
-            Cheap grow lights made a rolling-shutter webcam look striped. I built a two-stage FFmpeg
-            filter that removes the 120 Hz banding without ghosting, using about 64% less CPU than my
-            first attempt; the rest of the project handles live streams and timelapses.
+            Cheap grow lights made a rolling-shutter webcam look striped. Since I was recording plants
+            growing, I could combine a few nearby frames to remove the 120 Hz bands without losing
+            meaningful motion or hurting the finished timelapse. The final filter also uses about 64%
+            less CPU than my first attempt.
           </p>
           <p class="project-tools">Python · Flask · React · FFmpeg · HLS.js · Linux</p>
           <p class="project-links">

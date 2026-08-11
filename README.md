@@ -1,8 +1,19 @@
-# boredhero.github.io
+# Noah Martino — personal site
 
-[Click Here](https://boredhero.github.io/) for the live website.
+[noahmartino.com](https://noahmartino.com/) · hosted on [GitHub Pages](https://boredhero.github.io/)
 
-My personal website. Built with the help of some free templates and a lot of time fiddling with CSS to get it how I actually wanted it.
+A lightweight, responsive portfolio built with semantic HTML and CSS. No build step or
+JavaScript framework is required.
+
+## Local preview
+
+From the repository root:
+
+```bash
+python3 -m http.server 8000
+```
+
+Then open <http://localhost:8000>.
 
 ## License
 
@@ -10,4 +21,4 @@ My modifications to this template are available for free under the [GNU GPLv3](h
 
 ## Copyright notice
 
-Copyright Noah Martino © 2022.
+Copyright Noah Martino © 2026.
